@@ -341,5 +341,9 @@ footer {
     #photos {
         column-count: 2;
     }
+
+    #menu {
+        width: 90%;
+    }
 }
 
